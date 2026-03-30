@@ -1,3 +1,6 @@
+🔗 Live Demo
+👉[(https://ahrang100.github.io/gangnam425/)](https://ahrang100.github.io/Starbucks/)
+
 ☕️ Starbucks Login Page Clone
 스타벅스 공식 홈페이지의 로그인 페이지를 분석하고, 깔끔한 UI와 사용자 경험(UX)을 그대로 재현한 클론 코딩 프로젝트입니다.
 
@@ -20,5 +23,4 @@ Frontend: HTML5, CSS3
 
 Tools: GitHub Desktop (버전 관리), Visual Studio Code
 
-🔗 Live Demo
-👉(https://ahrang100.github.io/gangnam425/)
+
